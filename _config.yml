@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4283154
+color:
+  saturation: 0.9750829
+  lightness: 0.6327641
+  brandStrength: 1
+  brandColors:
+    - '#F2E9E0'
+    - '#0D0B0F'
+    - '#92876E'
+    - '#4B3A30'
+    - '#B47739'
+  rhythmicContrast: 0.8430949
+name: Atlanta
